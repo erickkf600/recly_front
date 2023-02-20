@@ -1,0 +1,1 @@
+export const route = 'https://fifty-kids-pull-131-72-255-192.loca.lt'
